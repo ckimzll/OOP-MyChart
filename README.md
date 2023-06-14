@@ -6,4 +6,4 @@
 - 1~4학기까지의 학점을 목표학점인 3.7이상이면 눈이 내리고 미만이면 비가 내리는 눈사람차트
 - 5학기 성적을 이후에 입력하면 최종학점을 계산해주는 차트
 
-<img src=""></img>
+<img src="https://github.com/ckimzll/OOP-MyChart/issues/1#issue-1756249735"></img>
